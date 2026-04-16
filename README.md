@@ -13,42 +13,52 @@ Nosso objetivo, é criar uma aplicação web capaz de coletar, armazenar e organ
 
 ## 🛠️ Tecnologias Planejadas
 Como o projeto está em fase de definição, estas são as tecnologias que pretendo utilizar:
-* **Linguagem:** Python / JavaScript
+* **Linguagem:** Python 3 / JavaScript
 * **Interface:** HTML, CSS e React
 * **Banco de Dados:** PostgreSQL
 
 
-## 📖 Histórias
+## 👥 Equipe
 
-**[Descrição completa de todas as histórias](https://docs.google.com/document/d/1m9j5ivkl5_tIzJZQO01UvtbhR_zjDNWwrEB4ApOkY8g/edit?usp=sharing)**
-
-### História 1 - Adm G10
-**Como** administrador  
-**Quero** gerenciar usuários, formulários, rankings, feedbacks e dados analíticos  
-**Para** garantir transparência, controle e melhor tomada de decisão no projeto
-
-**Descrição:** O administrador gerencia todo o sistema: criação de formulários, análise de dados (com gráficos e filtros), controle de rankings (presidentes e famílias), visualização de feedbacks anônimos e acompanhamento completo dos projetos.
-
+| Nome | GitHub |
+|------|--------|
+| José Eduardo | [JoseeFeitas](https://github.com/Joseefreitas) |
+| Maria Clara | [clarinhapontess](https://github.com/clarinhapontess) |
+| Leticia Soares | [LeticiaCamelloBarros ](https://github.com/LeticiaCamelloBarros) |
+| Dandara | [DandaaGoxtosura](https://github.com/DandaaGoxtosura) |
+| João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) |
+| Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) |
+| Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) |
+| Gabriel Peixoto | [???]() |
+| Victor Carraly | [carraly](https://github.com/carraly) |
+| Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) |
 ---
 
-### História 2 - Presidente de Rua
-**Como** presidente de rua  
-**Quero** gerenciar famílias, realizar visitas e registrar informações mesmo offline  
-**Para** garantir que minha região receba doações
+## 📦 Entregas do Projeto
 
-**Descrição:** O presidente recebe formulários, visita famílias, registra dados (mesmo sem internet), e precisa cumprir uma cota mínima de famílias para habilitar sua região.
+<details>
+<summary>📅 Status Report 1</summary>
 
----
+<br>
 
-### História 3 - Morador
-**Como** morador  
-**Quero** acompanhar minha participação, receber notificações e dar feedback  
-**Para** participar das ações e melhorar minha comunidade.
+### 📋 Documentação
+- 📄 [Desck Research](https://docs.google.com/document/d/1L4bXzrKbbZ0MtDELwEHfpaLPEnKqmDUCwANEscSWdTM/edit?tab=t.0)
+- 📄 [Análise de Similares e Benchmark](https://docs.google.com/document/d/1Uq_T1YkkVAovEQbeZL52nkBkXJOpY-af4NwTP4yyLWo/edit?tab=t.0)
+- 📄 [Relatório de Resultados](https://docs.google.com/document/d/1XR-KdyFfTKJaMS4oQV9uXczbuc_HYJldB3d2oNbvZ3Y/edit?tab=t.0)
 
-**Descrição:** O morador não preenche formulários sozinho, mas acompanha sua situação, participa de eventos, vê seu nível de engajamento e pode enviar feedback anônimo.
+### 🎨 Processos Criativos
+- 🖼️ [Ideação de Funcionalidades](https://www.figma.com/board/Cim1scYcWIXAFUz55xNpQ8/Idea%C3%A7%C3%A3o---La%C3%A7o-Favela?node-id=0-1&t=DFOWC7KiCY094sZW-1)
+- 🖼️ [Seleção de Ideias](https://www.figma.com/board/np5MK1fRLcTkn3Z6z5LW43/Sele%C3%A7%C3%A3o-de-Ideias---La%C3%A7o-Favela?node-id=0-1&t=odW24gs3D4tjqmYi-1)
+- 🖼️ [Protótipo low-fi](https://www.google.com/url?q=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fp561k6jcOjxkagocJufCZi%2FProt%25C3%25B3tipo-de-Baixa-Fidelidade---La%25C3%25A7o-Favela%3Fnode-id%3D0-1%26t%3D4eWlaLN8HBu8KhUT-1&sa=D)
 
+### 🎥 Apresentação
+- ▶️ [Slide SR1]()
 
+</details>
 
+<details>
+<summary>📅 Status Report 2</summary>
 
+### 🚧 Work in progress 🚧
 
-
+</details>
