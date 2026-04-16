@@ -16,3 +16,39 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 * **Linguagem:** Python / JavaScript
 * **Interface:** HTML, CSS e React
 * **Banco de Dados:** PostgreSQL
+
+
+## 📖 Histórias
+
+**[Descrição completa de todas as histórias](https://docs.google.com/document/d/1m9j5ivkl5_tIzJZQO01UvtbhR_zjDNWwrEB4ApOkY8g/edit?usp=sharing)**
+
+### História 1 - Adm G10
+**Como** administrador  
+**Quero** gerenciar usuários, formulários, rankings, feedbacks e dados analíticos  
+**Para** garantir transparência, controle e melhor tomada de decisão no projeto
+
+**Descrição:** O administrador gerencia todo o sistema: criação de formulários, análise de dados (com gráficos e filtros), controle de rankings (presidentes e famílias), visualização de feedbacks anônimos e acompanhamento completo dos projetos.
+
+---
+
+### História 2 - Presidente de Rua
+**Como** presidente de rua  
+**Quero** gerenciar famílias, realizar visitas e registrar informações mesmo offline  
+**Para** garantir que minha região receba doações
+
+**Descrição:** O presidente recebe formulários, visita famílias, registra dados (mesmo sem internet), e precisa cumprir uma cota mínima de famílias para habilitar sua região.
+
+---
+
+### História 3 - Morador
+**Como** morador  
+**Quero** acompanhar minha participação, receber notificações e dar feedback  
+**Para** participar das ações e melhorar minha comunidade.
+
+**Descrição:** O morador não preenche formulários sozinho, mas acompanha sua situação, participa de eventos, vê seu nível de engajamento e pode enviar feedback anônimo.
+
+
+
+
+
+
