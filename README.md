@@ -29,11 +29,11 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 | João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) | Ciências da computação |
 | Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) | Ciências da computação |
 | Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) | Ciências da computação |
-| Gabriel Peixoto | [???]() | Ciências da computação |
+| Gabriel Peixoto | [gabrielpferreira15 ](https://github.com/gabrielpferreira15) | Ciências da computação |
 | Victor Carraly | [carraly](https://github.com/carraly) | Ciências da computação |
 | Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) | Ciências da computação |
 | Renata Mariana | [renatamari](https://www.behance.net/renatamari) | Design |
-| Beatriz Miranda | [???]() | Design |
+| Beatriz Miranda | [Triz](https://www.linkedin.com/in/triz-miranda?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | Design |
 ---
 
 ## 📦 Entregas do Projeto
