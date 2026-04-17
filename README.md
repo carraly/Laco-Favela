@@ -41,8 +41,6 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 <details>
 <summary>📅 Status Report 1</summary>
 
-<br>
-
 ### 📋 Documentação
 - 📄 [Desk Research](https://docs.google.com/document/d/1L4bXzrKbbZ0MtDELwEHfpaLPEnKqmDUCwANEscSWdTM/edit?tab=t.0)
 - 📄 [Análise de Similares e Benchmark](https://docs.google.com/document/d/1Uq_T1YkkVAovEQbeZL52nkBkXJOpY-af4NwTP4yyLWo/edit?tab=t.0)
