@@ -20,18 +20,20 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 
 ## 👥 Equipe
 
-| Nome | GitHub |
-|------|--------|
-| José Eduardo | [JoseeFeitas](https://github.com/Joseefreitas) |
-| Maria Clara | [clarinhapontess](https://github.com/clarinhapontess) |
-| Leticia Soares | [LeticiaCamelloBarros ](https://github.com/LeticiaCamelloBarros) |
-| Dandara | [DandaaGoxtosura](https://github.com/DandaaGoxtosura) |
-| João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) |
-| Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) |
-| Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) |
-| Gabriel Peixoto | [???]() |
-| Victor Carraly | [carraly](https://github.com/carraly) |
-| Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) |
+| Nome | Portfólio | Curso |
+|------|--------| ------ |
+| José Eduardo | [JoseeFeitas](https://github.com/Joseefreitas) | Ciências da computação |
+| Maria Clara | [clarinhapontess](https://github.com/clarinhapontess) | Ciências da computação |
+| Leticia Soares | [LeticiaCamelloBarros ](https://github.com/LeticiaCamelloBarros) | Ciências da computação |
+| Dandara Resende | [DandaaGoxtosura](https://github.com/DandaaGoxtosura) | Ciências da computação |
+| João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) | Ciências da computação |
+| Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) | Ciências da computação |
+| Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) | Ciências da computação |
+| Gabriel Peixoto | [???]() | Ciências da computação |
+| Victor Carraly | [carraly](https://github.com/carraly) | Ciências da computação |
+| Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) | Ciências da computação |
+| Renata Mariana | [renatamari](https://www.behance.net/renatamari) | Design |
+| Beatriz Miranda | [???]() | Design |
 ---
 
 ## 📦 Entregas do Projeto
