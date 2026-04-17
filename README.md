@@ -22,16 +22,16 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 
 | Nome | Portfólio | Curso |
 |------|--------| ------ |
-| José Eduardo | [JoseeFeitas](https://github.com/Joseefreitas) | Ciências da computação |
-| Maria Clara | [clarinhapontess](https://github.com/clarinhapontess) | Ciências da computação |
-| Leticia Soares | [LeticiaCamelloBarros ](https://github.com/LeticiaCamelloBarros) | Ciências da computação |
-| Dandara Resende | [DandaaGoxtosura](https://github.com/DandaaGoxtosura) | Ciências da computação |
-| João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) | Ciências da computação |
-| Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) | Ciências da computação |
-| Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) | Ciências da computação |
-| Gabriel Peixoto | [gabrielpferreira15 ](https://github.com/gabrielpferreira15) | Ciências da computação |
-| Victor Carraly | [carraly](https://github.com/carraly) | Ciências da computação |
-| Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) | Ciências da computação |
+| José Eduardo | [JoseeFeitas](https://github.com/Joseefreitas) | Ciências da Computação |
+| Maria Clara | [clarinhapontess](https://github.com/clarinhapontess) | Ciências da Computação |
+| Leticia Soares | [LeticiaCamelloBarros ](https://github.com/LeticiaCamelloBarros) | Ciências da Computação |
+| Dandara Resende | [DandaaGoxtosura](https://github.com/DandaaGoxtosura) | Ciências da Computação |
+| João Pedro | [JoaoPedroSSBarbosa](https://github.com/JoaoPedroSSBarbosa) | Ciências da Computação |
+| Arthur Apolinário | [Arthur-Davila](https://github.com/Arthur-Davila) | Ciências da Computação |
+| Arthur Vitorino | [ArthurVFT](https://github.com/ArthurVFT) | Ciências da Computação |
+| Gabriel Peixoto | [gabrielpferreira15 ](https://github.com/gabrielpferreira15) | Ciências da Computação |
+| Victor Carraly | [carraly](https://github.com/carraly) | Ciências da Computação |
+| Juam Riquelme | [JuanRiquelme662](https://github.com/JuanRiquelme662) | Ciências da Computação |
 | Renata Mariana | [renatamari](https://www.behance.net/renatamari) | Design |
 | Beatriz Miranda | [Triz](https://www.linkedin.com/in/triz-miranda?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | Design |
 ---
@@ -44,7 +44,7 @@ Como o projeto está em fase de definição, estas são as tecnologias que prete
 <br>
 
 ### 📋 Documentação
-- 📄 [Desck Research](https://docs.google.com/document/d/1L4bXzrKbbZ0MtDELwEHfpaLPEnKqmDUCwANEscSWdTM/edit?tab=t.0)
+- 📄 [Desk Research](https://docs.google.com/document/d/1L4bXzrKbbZ0MtDELwEHfpaLPEnKqmDUCwANEscSWdTM/edit?tab=t.0)
 - 📄 [Análise de Similares e Benchmark](https://docs.google.com/document/d/1Uq_T1YkkVAovEQbeZL52nkBkXJOpY-af4NwTP4yyLWo/edit?tab=t.0)
 - 📄 [Relatório de Resultados](https://docs.google.com/document/d/1XR-KdyFfTKJaMS4oQV9uXczbuc_HYJldB3d2oNbvZ3Y/edit?tab=t.0)
 
